@@ -13,51 +13,51 @@
     "introduction": "In recent times, engineers have very well accepted soft computing tools such as Fuzzy Computing, Neuro-Computing, Evolutionary Computing, Probabilistic Computing, and Immunological Computing etc. for carrying out various numerical simulation studies. In last two decades, these tools independently as well as in hybrid forms has been successfully applied to varieties of problems.<br/><br/>The main objective of the proposed virtual lab is to introduce students about the latest Computational Intelligence Tools ( also known as soft computing tools). The training of these tools will be useful to develop rigorous applications in the engineering domain.<br/><br/>The experiments cover following broad areas:<br/>Fuzzy Logic</br> 1. Fuzzy Logic Fundamentals and Basic Operations <br/> 2. Fuzzy Inference System(FIS)<br/> 3. Fuzzy Weighted Average<br/> 4. Fuzzy Control<br/><br/>Artificial Neural Networks<br/> 5. Neural Networks and Perceptron<br/> 6. Multilayer Perceptron<br/> 7. Radial Basis Function<br/> 8. Probabilistic Neural Networks<br/><br/>Evolutionary Algorithms (EA)<br/> 9. Introduction to EA<br/> 10. Binary and Real Coded genetic Algorithms<br/> 11. Genetic Expression Programming<br/><br/>Probabilistic Reasoning<br> 12. Introduction to Probabilistic Reasoning and Baayesian Networks Application",
     "experiments": [
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Introduction to Fundamental of Fuzzy Logic and Basic Operations	",
+      "short-name": "fundamental-fuzzy-logic",
+      "repo": "https://github.com/virtual-labs/exp-fundamental-fuzzy-logic-iitkgp",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Fuzzy Inference System(FIS)",
+      "short-name": "fuzzy-inference-system",
+      "repo": "https://github.com/virtual-labs/exp-fuzzy-inference-system-iitkgp",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Fuzzy Weighted Average and Application",
+      "short-name": "fuzzy-weighted-average",
+      "repo": "https://github.com/virtual-labs/exp-fuzzy-weighted-average-iitkgp",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Fuzzy Control and Application",
+      "short-name": "fuzzy-control-application",
+      "repo": "https://github.com/virtual-labs/exp-fuzzy-control-application-iitkgp",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Introduction to Neural Networks and Perceptron Example",
+      "short-name": "neural-networks-perceptron",
+      "repo": "https://github.com/virtual-labs/exp-neural-networks-perceptron-iitkgp",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Multilayer Perceptron and Application",
+      "short-name": "multilayer-perceptron",
+      "repo": "https://github.com/virtual-labs/exp-multilayer-perceptron-iitkgp",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Probabilistic Neural Networks and Application",
+      "short-name": "probabilistic-neural-networks",
+      "repo": "https://github.com/virtual-labs/exp-probabilistic-neural-networks-iitkgp",
       "tag": "v1.0.0",
       "deploy": true
     }
