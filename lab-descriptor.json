@@ -66,9 +66,9 @@
         "UG": ["Undergraduate students"],
         "PG": ["Post-graduate students"]
     },
-    "objective": "",
+    "objective": "The main objective of the proposed virtual lab is to introduce students about the latest Computational Intelligence Tools ( also known as soft computing tools). The training of these tools will be useful to develop rigorous applications in the engineering domain.",
     "courseAlignment": {
-        "description": "",
-        "universities": []
+        "description": "The lab contents are chosen such that it covers the syllabi of the Soft Computing course's of various universities.",
+        "universities": ["IIT Kharagpur"]
     }
 }
