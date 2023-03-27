@@ -15,49 +15,49 @@
       "name": "Introduction to Fundamental of Fuzzy Logic and Basic Operations",
       "short-name": "fundamental-fuzzy-logic",
       "repo": "https://github.com/virtual-labs/exp-fundamental-fuzzy-logic-iitkgp",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Fuzzy Inference System(FIS)",
       "short-name": "fuzzy-inference-system",
       "repo": "https://github.com/virtual-labs/exp-fuzzy-inference-system-iitkgp",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Fuzzy Weighted Average and Application",
       "short-name": "fuzzy-weighted-average",
       "repo": "https://github.com/virtual-labs/exp-fuzzy-weighted-average-iitkgp",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Fuzzy Control and Application",
       "short-name": "fuzzy-control-application",
       "repo": "https://github.com/virtual-labs/exp-fuzzy-control-application-iitkgp",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Introduction to Neural Networks and Perceptron Example",
       "short-name": "neural-networks-perceptron",
       "repo": "https://github.com/virtual-labs/exp-neural-networks-perceptron-iitkgp",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Multilayer Perceptron and Application",
       "short-name": "multilayer-perceptron",
       "repo": "https://github.com/virtual-labs/exp-multilayer-perceptron-iitkgp",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Probabilistic Neural Networks and Application",
       "short-name": "probabilistic-neural-networks",
       "repo": "https://github.com/virtual-labs/exp-probabilistic-neural-networks-iitkgp",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     }
   ],
@@ -72,5 +72,5 @@
   },
   "exp_name": "Probabilistic Neural Networks and Application",
   "exp_short_name": "probabilistic-neural-networks",
-  "version": "v0.2.0"
+  "version": "v0.3.0"
 }
