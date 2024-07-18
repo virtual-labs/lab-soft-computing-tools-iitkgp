@@ -1,7 +1,8 @@
 {
   "broadArea": {
     "name": "Computer Science and Engineering",
-    "link": "https://www.vlab.co.in/broad-area-computer-science-and-engineering"
+    "link": "https://www.vlab.co.in/broad-area-computer-science-and-engineering",
+    "code": "CSE"
   },
   "lab": "Soft Computing Tools in Engineering Lab",
   "lab_display_name": "Soft Computing Tools in Engineering Lab",
@@ -69,8 +70,5 @@
   "courseAlignment": {
     "description": "The lab contents are chosen such that it covers the syllabi of the Soft Computing course's of various universities.",
     "universities": ["IIT Kharagpur"]
-  },
-  "exp_name": "Probabilistic Neural Networks and Application",
-  "exp_short_name": "probabilistic-neural-networks",
-  "version": "v0.4.0"
+  }
 }
