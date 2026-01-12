@@ -60,7 +60,28 @@
       "repo": "https://github.com/virtual-labs/exp-probabilistic-neural-networks-iitkgp",
       "tag": "v1.0.1",
       "deploy": true
-    }
+    },
+    {
+    "name": "Radial Basis Function and Applications",
+    "short-name": "radial-basis-function",
+    "repo": "https://github.com/virtual-labs/exp-radial-basis-function-iitkgp",
+    "tag": "v1.0.1",
+    "deploy": true
+  },
+  {
+    "name": "Binary and Real Coded Genetic Algorithms and Applications",
+    "short-name": "coded-genetic-algorithms",
+    "repo": "https://github.com/virtual-labs/exp-coded-genetic-algorithms-iitkgp",
+    "tag": "v1.0.0",
+    "deploy": true
+  },
+  {
+    "name": "Genetic Expression Programming and Applications",
+    "short-name": "genetic-expression-programming",
+    "repo": "https://github.com/virtual-labs/exp-genetic-expression-programming-iitkgp",
+    "tag": "v1.0.1",
+    "deploy": true
+  }
   ],
   "targetAudience": {
     "UG": ["Undergraduate students"],
