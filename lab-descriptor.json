@@ -79,7 +79,7 @@
     "name": "Genetic Expression Programming and Applications",
     "short-name": "genetic-expression-programming",
     "repo": "https://github.com/virtual-labs/exp-genetic-expression-programming-iitkgp",
-    "tag": "v1.0.1",
+    "tag": "v1.0.2",
     "deploy": true
   }
   ],
